@@ -2,6 +2,8 @@
 
 Curso de NextJS dictado por [@jonalvarezz](https://twitter.com/jonalvarezz) para [Platzi](https://platzi.com)
 
+![Captura de pokemones](.readme-static/captura-avocados.png)
+
 ### 🚀 Logros
 
 1. Creación del proyecto

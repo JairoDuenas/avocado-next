@@ -44,16 +44,16 @@ const Footer = () => (
             </p>
             <List horizontal style={{ display: 'flex' }}>
               <List.Item
-                icon="twitter"
+                icon="linkedin"
                 style={{ display: 'flex' }}
-                content={<a href="https://twitter.com/jonalvarezz">Twitter</a>}
+                content={<a href="https://www.linkedin.com/in/jhondue%C3%B1as/">LinkedIn</a>}
               />
               <List.Item
                 icon="github"
                 style={{ display: 'flex' }}
                 content={
-                  <a href="https://github.com/jonalvarezz/platzi-nextjs">
-                    GitHub
+                  <a href="https://github.com/JairoDuenas/avocado-next">
+                    GitHub (Jairo Dueñas)
                   </a>
                 }
               />
