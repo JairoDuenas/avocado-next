@@ -4,7 +4,7 @@ import { useRouter } from 'next/router'
 import { Menu, Container } from 'semantic-ui-react'
 
 import { Avocado } from '@components/SVGIcons'
-import ShoppingCartIcon from './ShoppingcartIcon'
+import ShoppingCartIcon from './ShoppingCartIcon'
 import { useCart } from '@store/Cart'
 
 const Navbar = () => {
