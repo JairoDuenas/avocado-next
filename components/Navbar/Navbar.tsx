@@ -10,6 +10,7 @@ import { useCart } from '@store/Cart'
 const Navbar = () => {
   const { pathname } = useRouter()
   const { count: cartCount } = useCart()
+  console.log(cartCount)
 
   return (
     <Menu size="huge" borderless pointing as="header">
