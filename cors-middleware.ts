@@ -1,4 +1,5 @@
 import corsWrapper from 'cors'
+// @ts-nocheck
 import { RequestHandler } from 'express'
 
 /**
